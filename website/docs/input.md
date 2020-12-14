@@ -86,6 +86,7 @@ import { Input } from 'react-native-elements';
   - [`labelStyle`](#labelstyle)
   - [`leftIcon`](#lefticon)
   - [`leftIconContainerStyle`](#lefticoncontainerstyle)
+  - [`placeholder`](#placeholder)
   - [`renderErrorMessage`](#rendererrormessage)
   - [`rightIcon`](#righticon)
   - [`rightIconContainerStyle`](#righticoncontainerstyle)
@@ -239,6 +240,16 @@ styling for left Icon Component container
 |        Type         | Default |
 | :-----------------: | :-----: |
 | View style (object) |  none   |
+
+---
+
+### `placeholder`
+
+Placeholder text for the input
+
+|  Type  | Default |
+| :----: | :-----: |
+| string |  none   |
 
 ---
 
